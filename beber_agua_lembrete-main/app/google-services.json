@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116512813638",
+    "project_id": "loginagua-c33d8",
+    "storage_bucket": "loginagua-c33d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116512813638:android:eb69e9b7cb789f98df1047",
+        "android_client_info": {
+          "package_name": "com.example.beberagua_lembrete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtAcSClbRuGQusVwlHa4q0kc_n-6Glwcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
